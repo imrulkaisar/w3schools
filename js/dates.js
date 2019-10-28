@@ -9,7 +9,9 @@ let d = new Date(year, month, date, hours, minutes, seconds, milliseconds);
  * 3 numbers specify year, month, day
  * 2 numbers specify year, month
  * 1 number specify year
+ * 
  * */
+
 
 new Date(99) // 1999
 new Date(9) // 1909
