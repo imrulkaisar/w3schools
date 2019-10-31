@@ -1,7 +1,6 @@
 /* 
  * JavaScript Style Guide and Coding Conventions
  * -----------------------------------------------
- *
  * */
 
 
@@ -24,7 +23,7 @@
  *
  * Object Rules
  * ------------------------------
- * Please the openingbracket on the same line as the object name. 
+ * Please the opening bracket on the same line as the object name. 
  * Use colon plus one space between each property and its value. 
  * Use quotes around string values, not around numeric values. 
  * Don't add a comma after the last property-value pair. 
@@ -33,15 +32,14 @@
  * --------------------------------------------------
  *
  * For readability, avoid lines longer than 80 characters.
- * Always use the same naming conention for all your code.
+ * Always use the same naming convention for all your code.
  *
  * Naming Conventions 
  * ----------------------------------------------
- * Variable and function names written as camelCase
- * Global variables written in UPPERCASE 
+ * Variable and function names are written as camelCase
+ * Global variables are written in UPPERCASE 
  * Constants written in UPPERCASE
  * Hyphens are not allowed in JavaScript names
  * */
-
 
 
